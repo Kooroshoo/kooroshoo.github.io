@@ -10,7 +10,7 @@ Hello, my name is Kourosh Riahidehkordi and I am Computer Science - Data Science
 
 -["The Job" PC Game](https://github.com/Kooroshoo/The-Job/)
 
--[A simple Arkanoid / breakout clone in 3D](https://github.com/Kooroshoo/BlockBreaker3D/)
+-[A simple Arkanoid / Breakout Clone in 3D](https://github.com/Kooroshoo/BlockBreaker3D/)
 
 -["Jump Boy" Android Game](https://cafebazaar.ir/app/com.Kooroshoo.JumpBoy?l=en/)
 
@@ -19,10 +19,10 @@ Hello, my name is Kourosh Riahidehkordi and I am Computer Science - Data Science
 
 -[Endless CarRacer Game](https://github.com/Kooroshoo/EndlessRacer-4.24/)
 
--[Simple Game/architecture game Experiece](https://github.com/Kooroshoo/ArchitectureProject/)
+-[Simple Game/Architecture Game Experiece](https://github.com/Kooroshoo/ArchitectureProject/)
 
 
 **Created with Phaser**
 
--[Classic Plain Shooter](https://github.com/Kooroshoo/phaser3-typescript-classic-shooter-kourosh/)
+-[Classic Plain Shooter Game](https://github.com/Kooroshoo/phaser3-typescript-classic-shooter-kourosh/)
 
