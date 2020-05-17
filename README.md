@@ -26,7 +26,7 @@ Hello, my name is Kourosh Riahidehkordi and I am Computer Science - Data Science
 
 - [Classic Plain Shooter Game](https://github.com/Kooroshoo/phaser3-typescript-classic-shooter-kourosh/)
 
-**Created in Jupyter Notebook with diffrent Machine learning frameworks**
+**Created in Jupyter Notebook with Machine Learning frameworks**
 
 - 
 
