@@ -5,8 +5,9 @@ Hello, my name is Kourosh Riahidehkordi and I am Computer Science - Data Science
 ### Bellow are some of the projects I have worked on:
 
 **Created in Unity**
-<ul>
+
 <li>["Afterlife: Dogs of Eden" PC Game](https://kooroshoo.itch.io/afterlife-dogs-of-eden/)</li>
+<ul>
 <li>["The Job" PC Game](https://github.com/Kooroshoo/The-Job/)</li>
 <li>[A simple Arkanoid / breakout clone in 3D](https://github.com/Kooroshoo/BlockBreaker3D/)</li>
 <li>["Jump Boy" Android Game](https://cafebazaar.ir/app/com.Kooroshoo.JumpBoy?l=en/)</li>
