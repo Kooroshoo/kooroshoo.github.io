@@ -24,7 +24,7 @@ Hello, my name is Kourosh Riahidehkordi and I am Computer Science - Data Science
 
 **Created in StackBlitz with TypeScript and the Phaser framework:**
 
-- [Classic Plane Shooter Game](https://github.com/Kooroshoo/phaser3-typescript-classic-shooter-kourosh/)
+- [Classic Space Shooter Game](https://github.com/Kooroshoo/phaser3-typescript-classic-shooter-kourosh/)
 
 **Created in Jupyter Notebook with Python:**
 
