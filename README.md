@@ -19,7 +19,7 @@ Hello, my name is Kourosh Riahidehkordi and I am Computer Science - Data Science
 
 - [Endless CarRacer Game](https://github.com/Kooroshoo/EndlessRacer-4.24/)
 
-- [Simple Game/Architecture Game Experiece](https://github.com/Kooroshoo/ArchitectureProject/)
+- [A Game/Architecture Project Experience](https://github.com/Kooroshoo/ArchitectureProject/)
 
 
 **Created in StackBlitz with TypeScript and the Phaser framework:**
