@@ -13,7 +13,7 @@ Hello, my name is Kourosh Riahidehkordi and I'm a Computer Science - Data Scienc
 
 - ["The Job" PC Game](https://github.com/Kooroshoo/The-Job/)
 
-- [A Simple Arkanoid / Breakout Clone in 3D](https://github.com/Kooroshoo/BlockBreaker3D/)
+- [A Simple Arkanoid / Breakout Clone Game in 3D](https://github.com/Kooroshoo/BlockBreaker3D/)
 
 - ["Jump Boy" Android Game](https://cafebazaar.ir/app/com.Kooroshoo.JumpBoy?l=en/)
 
