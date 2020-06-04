@@ -5,6 +5,9 @@ Hello, my name is Kourosh Riahidehkordi and I am Computer Science - Data Science
 ### Bellow are some of the projects I have worked on:
 
 **Created in Unity with C#:**
+- [Pedestrian Simulation](https://github.com/Kooroshoo/Pedestrian-Simulation-Final-)
+
+- [Mail Delivery BDI Agent](https://github.com/Kooroshoo/A-Mail-Delivery-BDI-Agent/blob/master/README.md)
 
 - ["Afterlife: Dogs of Eden" PC Game](https://kooroshoo.itch.io/afterlife-dogs-of-eden/)
 
