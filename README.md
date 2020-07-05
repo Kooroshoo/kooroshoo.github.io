@@ -45,7 +45,7 @@ Hello, my name is Kourosh Riahidehkordi and I'm a Computer Science - Data Scienc
 
 **Created in RStudio with R:**
 
-- [Sequential Pattern Mining using a Vertical Sequence-mining Algorithm: SPADE](https://github.com/Kooroshoo/)
+- [Sequential Pattern Mining using a Vertical Sequence-mining Algorithm: SPADE](https://github.com/Kooroshoo/Sequential-Pattern-Mining)
 
 
 **Writen in PDDL:**
