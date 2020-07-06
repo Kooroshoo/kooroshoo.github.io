@@ -42,7 +42,7 @@ Hello, my name is Kourosh Riahidehkordi and I'm a Computer Science - Data Scienc
 
 - [Classification of tweets from D. Trump and H. Clinton](https://github.com/Kooroshoo/Classification-of-tweets-from-D.-Trump-and-H.-Clinton)
 
-- [Simulation and Performance Evaluation – Homeworks](https://github.com/Kooroshoo/)
+- [Simulation and Performance Evaluation – Homeworks](https://github.com/Kooroshoo/Simulation-and-Performance-Evaluation-Homeworks)
 
 
 **Created in RStudio with R:**
