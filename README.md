@@ -51,6 +51,6 @@ Hello, my name is Kourosh Riahidehkordi and I'm a Computer Science - Data Scienc
 
 
 **Writen in PDDL:**
-- [Solving the n-puzzle board game](https://github.com/Kooroshoo/)
+- [Solving the n-puzzle board game](https://github.com/Kooroshoo/Solving-the-n-puzzle-board-game)
 
 
