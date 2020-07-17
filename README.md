@@ -2,6 +2,8 @@
 
 Hello, my name is Kourosh Riahidehkordi and I'm a Computer Science - Data Science student at the University of Trento, Italy. More information about me is availabe on my [LinkedIn](https://www.linkedin.com/in/kooroshoo/) account.
 
+--------------------------------------------------------------------------------------------------------------------
+
 ### Bellow are some of the projects I have worked on:
 
 **Created in Unity with C#:**
@@ -27,11 +29,13 @@ Hello, my name is Kourosh Riahidehkordi and I'm a Computer Science - Data Scienc
 
 - [A Game/Architecture Project Experience](https://github.com/Kooroshoo/ArchitectureProject/)
 
+--------------------------------------------------------------------------------------------------------------------
 
 **Created in StackBlitz with TypeScript and the Phaser framework:**
 
 - [Classic Space Shooter Game](https://github.com/Kooroshoo/phaser3-typescript-classic-shooter-kourosh/)
 
+--------------------------------------------------------------------------------------------------------------------
 
 **Created in Jupyter Notebook with Python:**
 
@@ -45,13 +49,16 @@ Hello, my name is Kourosh Riahidehkordi and I'm a Computer Science - Data Scienc
 
 - [Simulation and Performance Evaluation – Homeworks](https://github.com/Kooroshoo/Simulation-and-Performance-Evaluation-Homeworks)
 
+--------------------------------------------------------------------------------------------------------------------
 
 **Created in RStudio with R:**
 
 - [Sequential Pattern Mining using a Vertical Sequence-mining Algorithm: SPADE](https://github.com/Kooroshoo/Sequential-Pattern-Mining)
 
+--------------------------------------------------------------------------------------------------------------------
 
 **Writen in PDDL:**
 - [Solving the n-puzzle board game](https://github.com/Kooroshoo/Solving-the-n-puzzle-board-game)
 
+--------------------------------------------------------------------------------------------------------------------
 
