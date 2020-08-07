@@ -28,7 +28,7 @@ Hello, my name is Kourosh Riahidehkordi and I'm a Computer Science - Data Scienc
 --------------------------------------------------------------------------------------------------------------------
 
 **Created in Unreal Engine with C++ and Blueprint:**
-- [Dot Game Puzzle Game](https://github.com/Kooroshoo/DotGame)
+- [Dot Click Puzzle Game](https://github.com/Kooroshoo/DotGame)
 
 - [Endless CarRacer Game](https://github.com/Kooroshoo/EndlessRacer-4.24/)
 
