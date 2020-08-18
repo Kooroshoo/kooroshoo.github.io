@@ -1,4 +1,4 @@
-## Welcome 
+## 
 
 Hello, my name is Kourosh Riahidehkordi and I'm a Computer Science - Data Science student at the University of Trento, Italy. More information about me is availabe on my [LinkedIn](https://www.linkedin.com/in/kooroshoo/) account.
 
