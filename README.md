@@ -1,6 +1,6 @@
 More information about me is availabe on my [LinkedIn](https://www.linkedin.com/in/kooroshoo/) account.
 
-***Bellow are projects I have worked on:***
+## Bellow are projects I have worked on:
 
 --------------------------------------------------------------------------------------------------------------------
 
