@@ -28,6 +28,9 @@ More information about me is availabe on my [LinkedIn](https://www.linkedin.com/
 --------------------------------------------------------------------------------------------------------------------
 
 **Created in Unreal Engine with C++ and Blueprint:**
+- [A Third Person Shooter Prototype Game](https://github.com/Kooroshoo/test_TPS)
+
+- [A LIDAR Component](https://github.com)
 
 - [Dot Click Puzzle Game](https://github.com/Kooroshoo/DotGame)
 
