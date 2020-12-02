@@ -7,6 +7,8 @@ More information about me is availabe on my [LinkedIn](https://www.linkedin.com/
 **Created in Unity with C#:**
 - ["Pigeons Aren't Real" PC Game](https://kooroshoo.itch.io/pigeons-arent-real)
 
+- [Audio Visualizer](https://github.com/Kooroshoo/AudioVisualizer)
+
 - [A Endless Faller Game](https://github.com/Kooroshoo/Endless-Faller)
 
 - [A Paint Application](https://github.com/Kooroshoo/Paint-Project-New)
