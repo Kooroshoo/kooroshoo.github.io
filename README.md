@@ -36,16 +36,13 @@ More information about me is availabe on my [LinkedIn](https://www.linkedin.com/
 
 - [T-90 Battle Tank](https://github.com/Kooroshoo/T-90-Battle-Tank)
 
-- [Pac Man Clone](https://github.com/Kooroshoo/PacMan)
-
-- [Pinball](https://github.com/Kooroshoo/PinBall)
-
 - [A Game/Architecture Project Experience](https://github.com/Kooroshoo/ArchitectureProject/)
 
 - [Dot Click Puzzle Game](https://github.com/Kooroshoo/DotGame)
 
 - [Endless CarRacer Game](https://github.com/Kooroshoo/EndlessRacer-4.24/)
 
+- [Pinball](https://github.com/Kooroshoo/PinBall)
 
 
 --------------------------------------------------------------------------------------------------------------------
