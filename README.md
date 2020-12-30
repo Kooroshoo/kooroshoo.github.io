@@ -38,7 +38,7 @@ More information about me is availabe on my [LinkedIn](https://www.linkedin.com/
 
 - [Pac Man Clone](https://github.com/Kooroshoo/PacMan)
 
-- [Pin Ball](https://github.com/Kooroshoo/PinBall)
+- [Pinball](https://github.com/Kooroshoo/PinBall)
 
 - [A Game/Architecture Project Experience](https://github.com/Kooroshoo/ArchitectureProject/)
 
