@@ -34,7 +34,7 @@ More information about me is availabe on my [LinkedIn](https://www.linkedin.com/
 
 - [A LIDAR Component](https://www.youtube.com/watch?v=6LUlSXgmlwY&ab_channel=Kooroshoo)
 
-- [T-90 Battle Tank](https://www.youtube.com/watch?v=6LUlSXgmlwY&ab_channel=Kooroshoo)
+- [T-90 Battle Tank](https://github.com/Kooroshoo/T-90-Battle-Tank)
 
 - [Dot Click Puzzle Game](https://github.com/Kooroshoo/DotGame)
 
