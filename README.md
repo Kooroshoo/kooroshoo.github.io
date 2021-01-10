@@ -5,7 +5,7 @@ More information about me is availabe on my [LinkedIn](https://www.linkedin.com/
 --------------------------------------------------------------------------------------------------------------------
 
 **Created in Unity with C#:**
-- [Towards the Light - Android / PC Game](https://github.com/Kooroshoo/)
+- [Towards the Light - Android / PC Game](https://kooroshoo.itch.io/towards-the-light)
 
 - [Pigeons Aren't Real - PC Game](https://kooroshoo.itch.io/pigeons-arent-real)
 
