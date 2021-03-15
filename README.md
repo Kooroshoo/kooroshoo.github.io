@@ -5,7 +5,7 @@ More information about me is availabe on my [LinkedIn](https://www.linkedin.com/
 --------------------------------------------------------------------------------------------------------------------
 
 **Created in Unity with C#:**
-- [Chasing a AI](https://github.com/Kooroshoo/Tech-Test)
+- [Chasing the AI](https://github.com/Kooroshoo/Tech-Test)
 
 - [Towards the Light - Android / PC Game](https://kooroshoo.itch.io/towards-the-light)
 
