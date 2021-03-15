@@ -5,7 +5,7 @@ More information about me is availabe on my [LinkedIn](https://www.linkedin.com/
 --------------------------------------------------------------------------------------------------------------------
 
 **Created in Unity with C#:**
-- [Chasing Game](https://github.com/Kooroshoo/Tech-Test)
+- [Chasing a AI](https://github.com/Kooroshoo/Tech-Test)
 
 - [Towards the Light - Android / PC Game](https://kooroshoo.itch.io/towards-the-light)
 
@@ -34,7 +34,7 @@ More information about me is availabe on my [LinkedIn](https://www.linkedin.com/
 --------------------------------------------------------------------------------------------------------------------
 
 **Created in Unreal Engine with C++ and Blueprint:**
-- [ProceduralGeneration](https://github.com/Kooroshoo/ProceduralGeneration)
+- [A Dragable Procedural Generated Cube](https://github.com/Kooroshoo/ProceduralGeneration)
 
 - [A Third Person Shooter Prototype Game](https://github.com/Kooroshoo/test_TPS)
 
