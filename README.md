@@ -1,5 +1,3 @@
-### Projects I have worked on:
-
 --------------------------------------------------------------------------------------------------------------------
 
 **Created with HTML, CSS, JavaScript & other frameworks:**
