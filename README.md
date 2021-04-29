@@ -1,5 +1,3 @@
---------------------------------------------------------------------------------------------------------------------
-
 **Created with HTML, CSS, JavaScript & other frameworks:**
 
 - [Classic Space Shooter Game](https://github.com/Kooroshoo/phaser3-typescript-classic-shooter-kourosh/)
