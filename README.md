@@ -4,6 +4,12 @@ More information about me is availabe on my [LinkedIn](https://www.linkedin.com/
 
 --------------------------------------------------------------------------------------------------------------------
 
+**Created with HTML, CSS, JavaScript & other frameworks:**
+
+- [Classic Space Shooter Game](https://github.com/Kooroshoo/phaser3-typescript-classic-shooter-kourosh/)
+
+--------------------------------------------------------------------------------------------------------------------
+
 **Created in Unity with C#:**
 - [Chasing the AI](https://github.com/Kooroshoo/Tech-Test)
 
@@ -52,12 +58,6 @@ More information about me is availabe on my [LinkedIn](https://www.linkedin.com/
 
 - [Pinball](https://github.com/Kooroshoo/PinBall)
 
-
---------------------------------------------------------------------------------------------------------------------
-
-**Created in StackBlitz with TypeScript and the Phaser framework:**
-
-- [Classic Space Shooter Game](https://github.com/Kooroshoo/phaser3-typescript-classic-shooter-kourosh/)
 
 --------------------------------------------------------------------------------------------------------------------
 
