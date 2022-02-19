@@ -49,7 +49,7 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
-**Front-End Web Development (Created with HTML, CSS, JavaScript & other frameworks):**
+**Frontend Web Development (Created with HTML, CSS, JavaScript & other frameworks):**
 
 - [Automotive Repairs Website](https://github.com/Kooroshoo/Automotive-Repairs-Website)
 
