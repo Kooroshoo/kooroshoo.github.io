@@ -51,7 +51,7 @@
 
 **Frontend Web Development (Created with HTML, CSS, JavaScript & other frameworks):**
 
-- [features Panel Website](https://github.com/Kooroshoo/Features-Panel-Website)
+- [Features Panel Website](https://github.com/Kooroshoo/Features-Panel-Website)
 
 - [Resume Concept Website](https://github.com/Kooroshoo/Resume-Website)
 
