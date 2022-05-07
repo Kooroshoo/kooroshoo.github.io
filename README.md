@@ -1,5 +1,5 @@
 **Created in Unity with C#:**
-- [AR Project Test](https://github.com/Kooroshoo/AR_Project_Test)
+- [AR Project with Vuforia](https://github.com/Kooroshoo/AR_Project_Test)
 
 - [Project T](https://www.youtube.com/watch?v=1Wiuf_pmBso&ab_channel=Kooroshoo)
 
