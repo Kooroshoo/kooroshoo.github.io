@@ -55,7 +55,7 @@
 
 **Frontend Web Development (Created with HTML, CSS, JavaScript & other frameworks):**
 - [Frontend Mentor Challenges](https://github.com/Kooroshoo/Frontend-Mentor-Challenges)
-- 
+
 - [Research Site](https://github.com/Kooroshoo/ResearchSite)
 
 - [WordPress and GitHub Pages Science](https://github.com/Kooroshoo/WordPress-and-GitHub-Pages-Science)
