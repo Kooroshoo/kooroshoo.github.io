@@ -32,6 +32,8 @@
 --------------------------------------------------------------------------------------------------------------------
 
 **Created in Unreal Engine with C++ and Blueprint:**
+- [UE_Replication_CPPTraining_TPS](https://github.com/Kooroshoo/UE_Replication_CPPTraining_TPS)
+
 - [Responsive Teleport for Multiplayer](https://github.com/Kooroshoo/ShooterGame)
 
 - [A Dragable Procedural Generated Cube](https://github.com/Kooroshoo/ProceduralGeneration)
