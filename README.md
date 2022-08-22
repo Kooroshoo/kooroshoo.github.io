@@ -56,6 +56,8 @@
 --------------------------------------------------------------------------------------------------------------------
 
 **Frontend Web Development (Created with HTML, CSS, JavaScript & other frameworks):**
+- [JavaScript-Projects](https://github.com/Kooroshoo/JavaScript-Projects)
+- 
 - [Frontend Mentor Challenges](https://github.com/Kooroshoo/Frontend-Mentor-Challenges)
 
 - [Research Site](https://github.com/Kooroshoo/ResearchSite)
