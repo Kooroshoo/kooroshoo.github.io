@@ -68,6 +68,8 @@
 --------------------------------------------------------------------------------------------------------------------
 
 **Frontend Web Development (Created with HTML, CSS, JavaScript & other frameworks):**
+- [Crazy Chess](https://github.com/Kooroshoo/CrazyChess)
+
 - [Background-video-Project](https://github.com/Kooroshoo/Background-video-Project)
 
 - [AOT-Clock Website](https://github.com/Kooroshoo/AOT-Website)
