@@ -6,7 +6,7 @@
 --------------------------------------------------------------------------------------------------------------------
 
 **Created in Unreal Engine with C++ and Blueprint:**
-- [Immersive Multi-user Virtual Reality Training](https://github.com/Kooroshoo)
+- [Immersive Multi-user Virtual Reality Training](https://www.youtube.com/watch?v=3vDLikfeF00&ab_channel=Kooroshoo)
 
 - [Multi_ThreadedUE](https://github.com/Kooroshoo/Multi_ThreadedUE)
 
