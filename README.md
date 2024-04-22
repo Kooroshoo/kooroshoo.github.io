@@ -1,5 +1,5 @@
 **Created with C++ & other frameworks:**
-- [KEngine 2.0](https://github.com/Kooroshoo/KEngine-2.0)
+- [KEngine 2.0 (A 2D Game Engine)](https://github.com/Kooroshoo/KEngine-2.0)
   
 - [Graphics Programming with OpenGL](https://github.com/Kooroshoo/Graphics-Programming)
   
