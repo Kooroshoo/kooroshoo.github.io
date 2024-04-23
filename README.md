@@ -1,5 +1,9 @@
 **Created with C++ & other frameworks:**
 - [KEngine 2.0 (A 2D Game Engine)](https://github.com/Kooroshoo/KEngine-2.0)
+
+- [Data Structures & Algorithms](https://github.com/Kooroshoo/)
+
+- [Design Patterns](https://github.com/Kooroshoo/Design-Patterns)
   
 - [Graphics Programming with OpenGL](https://github.com/Kooroshoo/Graphics-Programming)
   
